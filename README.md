@@ -1,4 +1,4 @@
-#Week 1: Introduction to Machine Learning
+# Week 1: Introduction to Machine Learning
 
 ## ✅ What I Learned
 - Differences between AI, ML, and DL
