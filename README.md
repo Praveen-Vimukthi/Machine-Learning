@@ -28,7 +28,6 @@ for app in applications:
 
 # 🗓️ **Week 2: Python Basics for Machine Learning**
 
-```markdown
 ## ✅ What I Learned
 - Understanding Python basics (Variables, Loops, Functions)
 - Python syntax essentials for ML
@@ -50,11 +49,10 @@ def greet(name):
 names = ["Alice", "Bob", "Charlie"]
 for name in names:
     print(greet(name))
-
+```
 
 # 🗓️ **Week 3: NumPy & Pandas for Data Analysis**
 
-```markdown
 ## ✅ What I Learned
 - Working with NumPy arrays for efficient computation
 - Pandas for data manipulation and analysis
@@ -80,3 +78,4 @@ df = pd.DataFrame({
     "Score": [85, 90, 95]
 })
 print(df.describe())
+```
