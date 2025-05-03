@@ -62,7 +62,7 @@ Happy learning! 💡
 
 ### Topics Covered:
 - 📖 [Artificial Intelligence vs Machine Learning vs Deep Learning](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_1/AI%20vs%20ML%20vs%20DL.md)
-- 🔄 [Types of Machine Learning](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_1/Types%20Of%20ML.md)
+- 🔄 [Types of Machine Learning](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_1/1.2%20Types%20Of%20ML.md)
 - 🧑‍🏫 [Supervised Learning & its Types](#supervised-learning-its-types)
 - 🔍 [Unsupervised Learning & its Types](#unsupervised-learning-its-types)
 - 💡 [Deep Learning – Basics](#deep-learning-basics)
