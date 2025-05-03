@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Types: Supervised, Unsupervised, and Reinforcement Learning 🤖
+![image](https://github.com/user-attachments/assets/44a6f85e-39c3-41b7-9fc2-8ee814939c6d)![image](https://github.com/user-attachments/assets/9e5c9deb-a5e4-4aad-bb94-5ca109c006b6)# 🚀 Machine Learning Types: Supervised, Unsupervised, and Reinforcement Learning 🤖
 
 Welcome to the **Machine Learning Types** repository! This repo introduces three major types of machine learning:
 
@@ -27,6 +27,8 @@ In **supervised learning**, the model is trained on **labeled data**. For every 
 
 ### 🔍 What it is:
 In **unsupervised learning**, the model is trained on **unlabeled data**. The goal is to find **patterns** or **groupings** in the data without predefined labels.
+
+<img src="https://images.ctfassets.net/8r8i0zgzl3nn/7mfEkZOxBYWgKJ79u1Q4Xn/729ffa2e24ff5e7cfbb24a4289b01475/Unsupervised-Learning-in-ML-1.png" />
 
 ### 📝 Example:
 **Task**: Group customers based on their buying behavior 💳
