@@ -43,7 +43,7 @@ In **unsupervised learning**, the model is trained on **unlabeled data**. The go
 ### 🔍 What it is:
 In **reinforcement learning**, an **agent** learns by **interacting** with its environment. The agent receives **rewards** or **penalties** based on its actions, and the goal is to maximize the **total reward** over time.
 
-<img src="https://www.odinschool.com/hs-fs/hubfs/OdinSchool_V3/Blog%20Images/Inside%20Images/28%20b.webp?width=605&height=432&name=28%20b.webp" style="align: center"/>
+<img src="https://www.odinschool.com/hs-fs/hubfs/OdinSchool_V3/Blog%20Images/Inside%20Images/28%20b.webp?width=605&height=432&name=28%20b.webp" style="align: center;"/>
 
 ### 📝 Example:
 **Task**: A robot learning to walk 🤖
