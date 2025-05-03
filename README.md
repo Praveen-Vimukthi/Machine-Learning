@@ -26,7 +26,7 @@ for app in applications:
     print("-", app)
 
 
-### 🗓️ **Week 2: Python Basics for Machine Learning**
+# 🗓️ **Week 2: Python Basics for Machine Learning**
 
 ```markdown
 ## ✅ What I Learned
@@ -52,7 +52,7 @@ for name in names:
     print(greet(name))
 
 
-### 🗓️ **Week 3: NumPy & Pandas for Data Analysis**
+# 🗓️ **Week 3: NumPy & Pandas for Data Analysis**
 
 ```markdown
 ## ✅ What I Learned
