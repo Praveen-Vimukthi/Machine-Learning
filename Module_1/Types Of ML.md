@@ -13,6 +13,8 @@ Welcome to the **Machine Learning Types** repository! This repo introduces three
 ### 🔍 What it is:
 In **supervised learning**, the model is trained on **labeled data**. For every input, the correct output (label) is already provided. The model learns the relationship between inputs and outputs to make accurate predictions on new data.
 
+<img src="https://miro.medium.com/v2/1*Iz7bCLrPTImnBDOOEyE3LA.png" />
+
 ### 📝 Example:
 **Task**: Predict whether an email is **spam** or **not spam** 📧
 
