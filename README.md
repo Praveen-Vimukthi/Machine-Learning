@@ -58,86 +58,139 @@ Follow me on GitHub for regular updates as I continue to explore and refine my *
 Happy learning! 💡
 
 
-# 🗓️ **Week 1: Introduction to Machine Learning**
+## Module 1: Machine Learning Basics
 
-## ✅ What I Learned
-- Differences between AI, ML, and DL
-- Types of ML: Supervised, Unsupervised, Reinforcement
-- ML workflow and real-world uses
+### Topics Covered:
+- 📖 [Artificial Intelligence vs Machine Learning vs Deep Learning](#artificial-intelligence-vs-machine-learning-vs-deep-learning)
+- 🔄 [Types of Machine Learning](#types-of-machine-learning)
+- 🧑‍🏫 [Supervised Learning & its Types](#supervised-learning-its-types)
+- 🔍 [Unsupervised Learning & its Types](#unsupervised-learning-its-types)
+- 💡 [Deep Learning – Basics](#deep-learning-basics)
 
-## 🛠️ Tools Used
-- YouTube (for learning)
-- Markdown (for notes)
+---
 
-## ⭐ Topics
-- What is Machine Learning?
-- Types of Learning
-- Popular ML applications
+## Module 2: Python Basics for Machine Learning
 
-## 💻 Code Preview
-```python
-# Just a visual idea, no code this week
-# ML Types: Supervised, Unsupervised, Reinforcement
-print("AI -> Simulates human intelligence")
-print("ML -> Learns from data (subset of AI)")
-print("DL -> Uses neural networks (subset of ML)")
+### Topics Covered:
+- 🌐 [Google Colaboratory for Python – Getting Systems Ready](#google-colaboratory-for-python-getting-systems-ready)
+- 🐍 [Python Basics](#python-basics)
+- 🔢 [Python Basic Data Types](#python-basic-data-types)
+- 🔄 [Python Special Data Types](#python-special-data-types)
+- ➗ [Operators in Python](#operators-in-python)
+- 🔠 [if else Statement in Python](#if-else-statement-in-python)
+- 🔁 [Loops in Python](#loops-in-python)
+- 🧑‍💻 [Functions in Python](#functions-in-python)
 
-applications = ["Healthcare", "Finance", "Self-driving cars", "Robotics"]
-print("Applications of ML:")
-for app in applications:
-    print("-", app)
-```
+---
 
-# 🗓️ **Week 2: Python Basics for Machine Learning**
+## Module 3: Python Libraries Tutorial for Machine Learning
 
-## ✅ What I Learned
-- Understanding Python basics (Variables, Loops, Functions)
-- Python syntax essentials for ML
+### Topics Covered:
+- 🧮 [Complete Numpy Tutorial for ML](#complete-numpy-tutorial-for-ml)
+- 🧳 [Complete Pandas Tutorial for ML](#complete-pandas-tutorial-for-ml)
+- 📊 [Complete Matplotlib & Seaborn Tutorial for ML](#complete-matplotlib-seaborn-tutorial-for-ml)
+- 🔧 [Complete Sklearn Tutorial for ML](#complete-sklearn-tutorial-for-ml)
 
-## 🛠️ Tools Used
-- Python (3.10+)
-- Jupyter Notebooks
+---
 
-## ⭐ Topics
-- Data types (int, float, string)
-- Conditionals and loops
-- Functions and modular programming
+## Module 4: Data Collection & Processing
 
-## 💻 Code Preview
-```python
-def greet(name):
-    return f"Hello, {name}!"
+### Topics Covered:
+- 🌍 [Where to collect Data & How to collect Data](#where-to-collect-data-how-to-collect-data)
+- 📥 [Importing Data through Kaggle API](#importing-data-through-kaggle-api)
+- ❓ [Handling Missing Values](#handling-missing-values)
+- 🔄 [Data Standardization](#data-standardization)
 
-names = ["Alice", "Bob", "Charlie"]
-for name in names:
-    print(greet(name))
-```
+---
 
-# 🗓️ **Week 3: NumPy & Pandas for Data Analysis**
+## Module 5: Math Basics for Machine Learning
 
-## ✅ What I Learned
-- Working with NumPy arrays for efficient computation
-- Pandas for data manipulation and analysis
+### Topics Covered:
+- ➗ [Linear Algebra](#linear-algebra)
+- 📐 [Calculus](#calculus)
+- 📊 [Statistics](#statistics)
+- 🎲 [Probability](#probability)
 
-## 🛠️ Tools Used
-- NumPy
-- Pandas
+---
 
-## ⭐ Topics
-- NumPy arrays and basic operations
-- Pandas DataFrames for tabular data
+## Module 6: Training the Machine Learning Models
 
-## 💻 Code Preview
-```python
-import numpy as np
-import pandas as pd
+### Topics Covered:
+- 🧠 [What is a Machine Learning Model](#what-is-a-machine-learning-model)
+- 🔍 [How to select a model for training](#how-to-select-a-model-for-training)
+- ⚙️ [Model Optimization Techniques](#model-optimization-techniques)
+- 📈 [Model Evaluation](#model-evaluation)
 
-arr = np.array([1, 2, 3, 4, 5])
-print("Array mean:", np.mean(arr))
+---
 
-df = pd.DataFrame({
-    "Name": ["Alice", "Bob", "Charlie"],
-    "Score": [85, 90, 95]
-})
-print(df.describe())
-```
+## Module 7: Classification Models in Machine Learning
+
+### Topics Covered:
+- 📉 [Logistic Regression – Theory & Math](#logistic-regression-theory-math)
+- 🛠️ [Logistic Regression – Building from Scratch](#logistic-regression-building-from-scratch)
+- 💻 [Support Vector Machines (SVM) – Theory & Math](#support-vector-machines-svm-theory-math)
+- 🏗️ [Support Vector Machines (SVM) – Building from Scratch](#support-vector-machines-svm-building-from-scratch)
+- 🌳 [Decision Tree Classification – Theory & Math](#decision-tree-classification-theory-math)
+- 🛠️ [Decision Tree Classification – Building from Scratch](#decision-tree-classification-building-from-scratch)
+- 🌲 [Random Forest Classification – Theory & Math](#random-forest-classification-theory-math)
+- 🏗️ [Random Forest Classification – Building from Scratch](#random-forest-classification-building-from-scratch)
+- 🧮 [Naive Bayes – Theory & Math](#naive-bayes-theory-math)
+- 🛠️ [Naive Bayes – Building from Scratch](#naive-bayes-building-from-scratch)
+- 🧑‍💻 [K-Nearest Neighbors – Theory & Basics](#k-nearest-neighbors-theory-basics)
+- 🏗️ [K-Nearest Neighbors – Building from Scratch](#k-nearest-neighbors-building-from-scratch)
+
+---
+
+## Module 8: Regression Models in Machine Learning
+
+### Topics Covered:
+- 📊 [Linear Regression – Theory & Basics](#linear-regression-theory-basics)
+- 🛠️ [Linear Regression – Building from Scratch](#linear-regression-building-from-scratch)
+- 🧑‍🏫 [Lasso Regression – Theory & Basics](#lasso-regression-theory-basics)
+- 🏗️ [Lasso Regression – Building from Scratch](#lasso-regression-building-from-scratch)
+- 📉 [Logistic Regression – Theory & Math](#logistic-regression-theory-math)
+- 🛠️ [Logistic Regression – Building from Scratch](#logistic-regression-building-from-scratch)
+- 💻 [Support Vector Machine Regression – Theory & Math](#support-vector-machine-regression-theory-math)
+- 🛠️ [Support Vector Machine Regression – Building from Scratch](#support-vector-machine-regression-building-from-scratch)
+- 🌳 [Decision Tree Regression – Theory & Math](#decision-tree-regression-theory-math)
+- 🛠️ [Decision Tree Regression – Building from Scratch](#decision-tree-regression-building-from-scratch)
+- 🌲 [Random Forest Regression – Theory & Math](#random-forest-regression-theory-math)
+- 🏗️ [Random Forest Regression – Building from Scratch](#random-forest-regression-building-from-scratch)
+
+---
+
+## Module 9: Clustering Models in Machine Learning
+
+### Topics Covered:
+- 🔍 [K-Means Clustering – Theory & Math](#k-means-clustering-theory-math)
+- 🏗️ [K-Means Clustering – Building from Scratch](#k-means-clustering-building-from-scratch)
+- 🌳 [Hierarchical Clustering – Theory & Math](#hierarchical-clustering-theory-math)
+- 🛠️ [Hierarchical Clustering – Building from Scratch](#hierarchical-clustering-building-from-scratch)
+
+---
+
+## Module 10: Association Models in Machine Learning
+
+### Topics Covered:
+- 📊 [Apriori – Theory & Basics](#apriori-theory-basics)
+- 🛠️ [Apriori – Building from Scratch](#apriori-building-from-scratch)
+- 🧮 [Eclat – Theory & Math](#eclat-theory-math)
+- 🏗️ [Eclat – Building from Scratch](#eclat-building-from-scratch)
+
+---
+
+## Module 11: Machine Learning Projects with Python
+
+### Projects:
+- 🧑‍💻 [Face Recognition System](#face-recognition-system)
+- 🪨 [SONAR Rock vs Mine Prediction](#sonar-rock-vs-mine-prediction)
+- 💉 [Diabetes Prediction with Python](#diabetes-prediction-with-python)
+- 🏠 [House Price Prediction with Python](#house-price-prediction-with-python)
+- 📰 [Fake News Prediction with Python](#fake-news-prediction-with-python)
+- 💳 [Loan Status Prediction with Python](#loan-status-prediction-with-python)
+
+---
+
+## Get Started
+
+To get started with this course, simply follow the structure, complete each module, and push your code to GitHub as you go. Feel free to add comments, improvements, and share your progress with the community!
