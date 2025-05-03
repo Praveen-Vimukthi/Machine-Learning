@@ -1,3 +1,5 @@
+# 🗓️ **Week 1: Introduction to Machine Learning**
+
 ## ✅ What I Learned
 - Differences between AI, ML, and DL
 - Types of ML: Supervised, Unsupervised, Reinforcement
