@@ -26,8 +26,6 @@ for app in applications:
     print("-", app)
 
 
----
-
 ### 🗓️ **Week 2: Python Basics for Machine Learning**
 
 ```markdown
@@ -53,8 +51,6 @@ names = ["Alice", "Bob", "Charlie"]
 for name in names:
     print(greet(name))
 
-
----
 
 ### 🗓️ **Week 3: NumPy & Pandas for Data Analysis**
 
