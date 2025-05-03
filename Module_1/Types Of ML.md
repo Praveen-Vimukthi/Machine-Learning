@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Types: Supervised, Unsupervised, and Reinforcement Learning 🤖
+# 🚀 Machine Learning Types🤖
 
 Welcome to the **Machine Learning Types** repository! This repo introduces three major types of machine learning:
 
