@@ -24,7 +24,7 @@ applications = ["Healthcare", "Finance", "Self-driving cars", "Robotics"]
 print("Applications of ML:")
 for app in applications:
     print("-", app)
-
+```
 
 # 🗓️ **Week 2: Python Basics for Machine Learning**
 
