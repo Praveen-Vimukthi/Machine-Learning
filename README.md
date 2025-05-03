@@ -61,7 +61,7 @@ Happy learning! 💡
 ## Module 1: Machine Learning Basics
 
 ### Topics Covered:
-- 📖 [Artificial Intelligence vs Machine Learning vs Deep Learning](#https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_1/AI%20vs%20ML%20vs%20DL.md)
+- 📖 [Artificial Intelligence vs Machine Learning vs Deep Learning](#artificial-intelligence-vs-machine-learning-vs-deep-learning)
 - 🔄 [Types of Machine Learning](#types-of-machine-learning)
 - 🧑‍🏫 [Supervised Learning & its Types](#supervised-learning-its-types)
 - 🔍 [Unsupervised Learning & its Types](#unsupervised-learning-its-types)
