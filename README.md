@@ -86,7 +86,7 @@ Happy learning! 💡
 ## Module 3: Python Libraries Tutorial for Machine Learning
 
 ### Topics Covered:
-- 🧮 [Complete Numpy Tutorial for ML](#complete-numpy-tutorial-for-ml)
+- 🧮 [Complete Numpy Tutorial for ML](https://colab.research.google.com/drive/1yFKn4-IChXFtDMk0ZhMDeJONRhNYd_O5?authuser=1#scrollTo=Li4B8xzrknVF)
 - 🧳 [Complete Pandas Tutorial for ML](#complete-pandas-tutorial-for-ml)
 - 📊 [Complete Matplotlib & Seaborn Tutorial for ML](#complete-matplotlib-seaborn-tutorial-for-ml)
 - 🔧 [Complete Sklearn Tutorial for ML](#complete-sklearn-tutorial-for-ml)
