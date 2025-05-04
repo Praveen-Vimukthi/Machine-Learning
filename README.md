@@ -72,7 +72,7 @@ Happy learning! 💡
 ## Module 2: Python Basics for Machine Learning
 
 ### Topics Covered:
-- 🌐 [Google Colaboratory for Python – Getting Systems Ready](#google-colaboratory-for-python-getting-systems-ready)
+- 🌐 [Google Colaboratory for Python – Getting Systems Ready](https://colab.research.google.com/drive/15ZI8w-CI3nSf-NSppKnpvj0SrRVB-2Ay?authuser=1)
 - 🐍 [Python Basics](#python-basics)
 - 🔢 [Python Basic Data Types](#python-basic-data-types)
 - 🔄 [Python Special Data Types](#python-special-data-types)
