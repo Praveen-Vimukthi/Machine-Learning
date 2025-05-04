@@ -75,7 +75,7 @@ Happy learning! 💡
 - 🌐 [Google Colaboratory for Python – Getting Systems Ready](https://colab.research.google.com/drive/15ZI8w-CI3nSf-NSppKnpvj0SrRVB-2Ay?authuser=1)
 - 🐍 [Python Basics](#python-basics)
 - 🔢 [Python Basic Data Types](https://colab.research.google.com/drive/1HK3q69f-PLrU8Lm7NTRycFCNKNnJRO-l?authuser=1#scrollTo=oZD59xJzruXo)
-- 🔄 [Python Special Data Types](#python-special-data-types)
+- 🔄 [Python Special Data Types](https://colab.research.google.com/drive/1Eb5lOEGx18guWuUOxaLbPuLKmr3_dOqm?authuser=1#scrollTo=gnpSVjXK1gCn)
 - ➗ [Operators in Python](#operators-in-python)
 - 🔠 [if else Statement in Python](#if-else-statement-in-python)
 - 🔁 [Loops in Python](#loops-in-python)
