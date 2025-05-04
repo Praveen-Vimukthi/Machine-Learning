@@ -65,7 +65,7 @@ Happy learning! 💡
 - 🔄 [Types of Machine Learning](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_1/1.2%20Types%20Of%20ML.md)
 - 🧑‍🏫 [Supervised Learning & its Types](#supervised-learning-its-types)
 - 🔍 [Unsupervised Learning & its Types](#unsupervised-learning-its-types)
-- 💡 [Deep Learning – Basics](#deep-learning-basics)
+- 💡 [Deep Learning – Basics](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_1/1.5%20Deep%20Learning.md)
 
 ---
 
