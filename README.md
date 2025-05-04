@@ -74,7 +74,7 @@ Happy learning! 💡
 ### Topics Covered:
 - 🌐 [Google Colaboratory for Python – Getting Systems Ready](https://colab.research.google.com/drive/15ZI8w-CI3nSf-NSppKnpvj0SrRVB-2Ay?authuser=1)
 - 🐍 [Python Basics](#python-basics)
-- 🔢 [Python Basic Data Types](#python-basic-data-types)
+- 🔢 [Python Basic Data Types](https://colab.research.google.com/drive/1HK3q69f-PLrU8Lm7NTRycFCNKNnJRO-l?authuser=1#scrollTo=oZD59xJzruXo)
 - 🔄 [Python Special Data Types](#python-special-data-types)
 - ➗ [Operators in Python](#operators-in-python)
 - 🔠 [if else Statement in Python](#if-else-statement-in-python)
