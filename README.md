@@ -76,7 +76,7 @@ Happy learning! 💡
 - 🐍 [Python Basics](#python-basics)
 - 🔢 [Python Basic Data Types](https://colab.research.google.com/drive/1HK3q69f-PLrU8Lm7NTRycFCNKNnJRO-l?authuser=1#scrollTo=oZD59xJzruXo)
 - 🔄 [Python Special Data Types](https://colab.research.google.com/drive/1Eb5lOEGx18guWuUOxaLbPuLKmr3_dOqm?authuser=1#scrollTo=gnpSVjXK1gCn)
-- ➗ [Operators in Python](#operators-in-python)
+- ➗ [Operators in Python](https://colab.research.google.com/drive/1ZRNSk273MXzjSSxrTbxffWG-z2yw67oQ?authuser=1#scrollTo=8JeJj9d_4Aio)
 - 🔠 [if else Statement in Python](#if-else-statement-in-python)
 - 🔁 [Loops in Python](#loops-in-python)
 - 🧑‍💻 [Functions in Python](#functions-in-python)
