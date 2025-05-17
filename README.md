@@ -88,8 +88,8 @@ Happy learning! 💡
 ### Topics Covered:
 - 🧮 [Complete Numpy Tutorial for ML](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_3/3.1%20NumPy%20Tutorial.md)
 - 🧳 [Complete Pandas Tutorial for ML](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_3/3.2%20Pandas%20Tutorial.md)
-- 📊 [Complete Matplotlib Tutorial for ML](https://colab.research.google.com/drive/1wc1GavmjT8T3iYOwJa7D7_GwHGvHnjaB?authuser=1#scrollTo=7eBzMMEkMbbi)
-- 📊 [Complete Seaborn Tutorial for ML](https://colab.research.google.com/drive/19ycoJ99YHgQxo-aE0p7vkzahRrkTd_pq?authuser=1#scrollTo=5HFPfV8thOX2)
+- 📊 [Complete Matplotlib Tutorial for ML](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_3/3.3%20Matplotlib%20Tutorial.md)
+- 📊 [Complete Seaborn Tutorial for ML](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_3/3.4%20Seaborn%20Tutorial)
 - 🔧 [Complete Sklearn Tutorial for ML](#complete-sklearn-tutorial-for-ml)
 
 ---
