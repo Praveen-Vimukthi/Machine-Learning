@@ -94,13 +94,19 @@ Happy learning! 💡
 
 ---
 
-## Module 4: Data Collection & Processing
+## Module 4: Data Collection & Pre-Processing
 
 ### Topics Covered:
 - 🌍 [Where to collect Data & How to collect Data](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.1%20Where%20to%20Collect%20Data%20%26%20How%20to%20Collect%20Data.md)
 - 📥 [Importing Data through Kaggle API](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.2%20Importing%20Data%20through%20Kaggle%20API.md)
 - ❓ [Handling Missing Values](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.3%20Handling%20Missing%20Values%20in%20Machine%20Learning.md)
 - 🔄 [Data Standardization](#data-standardization)
+- 🔢 [Label Encoding](#label-encodiing)
+- ✂️ [Train Test Split](#train-test-split)
+- ⚖️ [Handle imbalanced Dataset](#handle-imbalance-dataset)
+- 📑 [Feature extraction of Text data](#feature-extraction-of-text-data)
+- 🧮 [Numerical Dataset Pre-Processing - Use Case](#num-use-case)
+- 📝 [Text Dataset Pre-Processing - Use Case](#text-use-case)
 
 ---
 
@@ -108,9 +114,9 @@ Happy learning! 💡
 
 ### Topics Covered:
 - ➗ [Linear Algebra](#linear-algebra)
-- 📐 [Calculus](#calculus)
 - 📊 [Statistics](#statistics)
 - 🎲 [Probability](#probability)
+- 📐 [Calculus](#calculus)
 
 ---
 
