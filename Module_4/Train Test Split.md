@@ -21,7 +21,9 @@ This is called Train–Test Split
 If you test the model using the same data it learned from, it may:
 
 ❌ Memorize answers
+
 ❌ Look very accurate
+
 ❌ Fail on new (real) data
 
 So we split the data to answer this question:
