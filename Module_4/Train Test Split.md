@@ -158,6 +158,132 @@ Fail              2
 
 - One class may disappear in test data
 
-### Train–Test Split WITH `stratify`
+---
+
+## Train–Test Split WITH `stratify`
+
+`stratify` keeps the SAME class proportion in both train and test data.
+
+**In simple words:**
+
+> “Whatever ratio exists in original data must also exist in train and test data.”
+
+```python
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y,
+    test_size=0.3,
+    random_state=42,
+    stratify=y
+)
+
+print("Train Result Count:")
+print(y_train.value_counts())
+
+print("\nTest Result Count:")
+print(y_test.value_counts())
+```
+**Output:**
+```
+Train Result     Count:
+Pass                5
+Fail                2
+
+Test Result     Count:
+Pass                2
+Fail                1
+```
+
+### What Changed?
+
+Original Dataset Ratio
+
+- Pass = 7
+- Fail = 3
+        ➡ 70% Pass, 30% Fail
+
+**After Stratified Split**
+
+| **Dataset**  | **Pass** | **Fail** |
+| -------- | ---- | ---- |
+| Training | 5    | 2    |
+| Testing  | 2    | 1    |
+
+✅ Same ratio preserved
+
+✅ Both classes appear everywhere
+
+✅ Fair model evaluation
+
+### When should we use `stratify`?
+
+| **Situation**              | **Use stratify?** |
+| ---------------------- | ------------- |
+| Classification problem | ✅ YES         |
+| Imbalanced dataset     | ✅ YES         |
+| Regression problem     | ❌ NO          |
+| Continuous output      | ❌ NO          |
+
+### Real-Life Example (Stratify)
+
+Think of a school exam 🎓
+
+- 90% students passed
+- 10% students failed
+
+If you test only passed students:
+
+- You learn nothing about failures
+
+`stratify` ensures:
+
+- Passed & failed students appear in both training and testing
+
+---
+
+## Overfitting & Train–Test Split
+
+| **Scenario                               | **Meaning**      |
+| -------------------------------------- | ------------ |
+| High train accuracy, low test accuracy | Overfitting  |
+| Low train accuracy, low test accuracy  | Underfitting |
+| High both                              | Good model   |
+
+Train–Test Split helps detect overfitting.
+
+---
+
+## Final Summary
+
+- Train–Test Split divides data into learning & checking
+
+- Prevents memorization
+
+- Shows real performance
+
+- random_state → reproducible results
+
+- stratify → keeps class balance
+
+- Always use stratify for classification
+
+- Most common split → 80/20
+
+---
+
+## 🗂 Related Work Files
+
+| Title                         | Link                                                 |
+|------------------------------|------------------------------------------------------|
+| 💻 Google Colab File         | [View File](https://colab.research.google.com/drive/1HszwYF-0IxlTMpdMBg9l_KqEDO7a3XHK?authuser=2)               |
 
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.5%20Label%20Encoding.md?plain=1">&larr; Previous</a>
+    </td>
+    <td align="right">
+      <a href="README_STEP3.md">Next &rarr;</a>
+    </td>
+  </tr>
+</table>
