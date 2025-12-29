@@ -280,7 +280,7 @@ Train–Test Split helps detect overfitting.
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.5%20Label%20Encoding.md?plain=1">&larr; Previous</a>
+      <a href="https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.5%20Label%20Encoding.md">&larr; Previous</a>
     </td>
     <td align="right">
       <a href="README_STEP3.md">Next &rarr;</a>
