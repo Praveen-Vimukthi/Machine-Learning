@@ -15,3 +15,15 @@ In **Machine Learning**, it is the same idea.
 - Testing data → to check how well it learned
 
 This is called Train–Test Split
+
+## Why do we need Train–Test Split?
+
+If you test the model using the same data it learned from, it may:
+
+❌ Memorize answers
+❌ Look very accurate
+❌ Fail on new (real) data
+
+So we split the data to answer this question:
+
+> “Can the model predict correctly on data it has never seen before?”
