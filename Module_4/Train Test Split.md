@@ -16,6 +16,8 @@ In **Machine Learning**, it is the same idea.
 
 This is called Train–Test Split
 
+--- 
+
 ## Why do we need Train–Test Split?
 
 If you test the model using the same data it learned from, it may:
@@ -29,3 +31,17 @@ If you test the model using the same data it learned from, it may:
 So we split the data to answer this question:
 
 > “Can the model predict correctly on data it has never seen before?”
+
+---
+
+## Simple Example
+
+Suppose we have this dataset:
+
+|** Hours Studied** | **Marks** |
+| -------------- | ----- |
+| 1             | 20    |
+| 2             | 40    |
+| 3             | 60    |
+| 4             | 80    |
+| 5             | 100   |
