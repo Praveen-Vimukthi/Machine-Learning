@@ -144,3 +144,20 @@ Test Result     Count:
 Pass              1
 Fail              2
 ```
+
+### Meaning of Parameters
+
+| **Parameter**      | **Meaning**                 |
+| -------------- | ----------------------- |
+| `X`            | Input features          |
+| `y`            | Output labels           |
+| `test_size`    | Percentage of test data |
+| `random_state` | Fixes randomness        |
+
+⚠ Risk:
+
+- One class may disappear in test data
+
+### Train–Test Split WITH `stratify`
+
+
