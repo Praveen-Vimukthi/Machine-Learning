@@ -104,5 +104,43 @@ These are very common:
 | 90%      | 10%                 |
 
 ✔ More training data = better learning
+
 ✔ Enough testing data = fair evaluation
 
+---
+
+## Train–Test Split in Python (scikit-learn)
+
+```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+
+# Create dataset
+data = pd.DataFrame({
+    'Hours_Studied': [1,2,3,4,5,6,7,8,9,10],
+    'Result': ['Fail','Fail','Fail','Pass','Pass','Pass','Pass','Pass','Pass','Pass']
+})
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y,
+    test_size=0.3,
+    random_state=42
+)
+
+print("Train Result     Count:")
+print(y_train.value_counts())
+
+print("\nTest Result    Count:")
+print(y_test.value_counts())
+
+```
+**Output:**
+```
+Train Result    Count:
+Pass              6
+Fail              1
+
+Test Result     Count:
+Pass              1
+Fail              2
+```
