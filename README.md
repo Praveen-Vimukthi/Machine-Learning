@@ -102,7 +102,7 @@ Happy learning! 💡
 - ❓ [Handling Missing Values](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.3%20Handling%20Missing%20Values%20in%20Machine%20Learning.md)
 - 🔄 [Data Standardization](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.4%20Data%20Standardization.md)
 - 🔢 [Label Encoding](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.5%20Label%20Encoding.md)
-- ✂️ [Train Test Split](#train-test-split)
+- ✂️ [Train Test Split](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.6%20Train%20Test%20Split.md)
 - ⚖️ [Handle imbalanced Dataset](#handle-imbalance-dataset)
 - 📑 [Feature extraction of Text data](#feature-extraction-of-text-data)
 - 🧮 [Numerical Dataset Pre-Processing - Use Case](#num-use-case)
