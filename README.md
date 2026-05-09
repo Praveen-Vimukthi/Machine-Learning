@@ -103,7 +103,7 @@ Happy learning! 💡
 - 🔄 [Data Standardization](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.4%20Data%20Standardization.md)
 - 🔢 [Label Encoding](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.5%20Label%20Encoding.md)
 - ✂️ [Train Test Split](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.6%20Train%20Test%20Split.md)
-- ⚖️ [Handle imbalanced Dataset](#handle-imbalance-dataset)
+- ⚖️ [Handle imbalanced Dataset](https://github.com/Praveen-Vimukthi/Machine-Learning/blob/main/Module_4/4.7%20Handling%20imbalanced%20Data.md)
 - 📑 [Feature extraction of Text data](#feature-extraction-of-text-data)
 - 🧮 [Numerical Dataset Pre-Processing - Use Case](#num-use-case)
 - 📝 [Text Dataset Pre-Processing - Use Case](#text-use-case)
